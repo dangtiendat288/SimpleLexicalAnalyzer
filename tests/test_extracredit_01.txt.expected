@@ -1,0 +1,6 @@
+{1 , NUM , 1}
+{ , DOT , 1}
+{asdf , ID , 1}
+{123 , NUM , 2}
+{ab12x16ABC12x16 , ID , 2}
+{ , END_OF_FILE , 2}

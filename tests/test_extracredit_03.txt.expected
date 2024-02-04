@@ -1,0 +1,5 @@
+{1 , NUM , 1}
+{Ax0 , ID , 1}
+{1x08 , BASE08NUM , 2}
+{1234x08 , BASE08NUM , 3}
+{ , END_OF_FILE , 3}
